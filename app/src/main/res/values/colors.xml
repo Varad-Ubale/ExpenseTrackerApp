@@ -1,0 +1,15 @@
+<resources>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="labelColor">#7B1FA2</color> <!-- Deep Purple -->
+    <color name="valueColor">#212121</color> <!-- Almost Black -->
+
+    <color name="expense_background">#FFCDD2</color>
+    <color name="earning_background">#C8E6C9</color>
+</resources>
